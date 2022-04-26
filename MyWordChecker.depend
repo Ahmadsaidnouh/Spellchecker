@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623857808 source:c:\users\ahmad nouh\desktop\college\term 4\datastructure\assignment 4\mywork\mywordchecker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
